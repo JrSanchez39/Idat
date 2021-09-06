@@ -1,2 +1,3 @@
 Clase 1 - Semana 1
-Junior Sanchez Yufragit add.
+Clase 2 - Semana 2
+Junior Sanchez Yufra
