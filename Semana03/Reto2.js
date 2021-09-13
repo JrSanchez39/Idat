@@ -12,7 +12,7 @@ Cree 2 funciones que calculen las propiedades de un círculo,
 //Math.PI
 //let radio = prompt ('Ingrese el radio');
 
- function  CalcCircumfrence (radio) { 
+ /*function  CalcCircumfrence (radio) { 
     console.log(`La circunferencia es , ${radio}`); 
 }
 CalcCircumfrence (6);
@@ -22,4 +22,18 @@ function CalArea (area){
 console.log(`El Area es , ${area}`); 
 CalcCircumfrence (radio);
 }
-CalcArea();
+CalcArea();*/
+
+function calcCircumfrence(radius) {
+    var y = (Math.PI * radius) * 2;
+  console.log("La circunferencia es " + y + ".");
+  }
+  function calcArea(radius) {
+    var x = (Math.PI * radius) * radius;
+  console.log("El Area es " + x + ".");
+  }
+  
+  calcCircumfrence(15);
+  calcArea(25);
+
+  
