@@ -26,11 +26,11 @@ CalcArea();*/
 
 function calcCircumfrence(radius) {
     var y = (Math.PI * radius) * 2;
-  console.log("La circunferencia es " + y + ".");
+  alert("La circunferencia es " + y + ".");
   }
   function calcArea(radius) {
     var x = (Math.PI * radius) * radius;
-  console.log("El Area es " + x + ".");
+  alert("El Area es " + x + ".");
   }
   
   calcCircumfrence(15);
